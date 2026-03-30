@@ -1,6 +1,6 @@
 [package]
 name = "unicodefyi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["FYIPedia"]
 description = "Unicode character lookup with 17 encodings — async API client for unicodefyi.com."
